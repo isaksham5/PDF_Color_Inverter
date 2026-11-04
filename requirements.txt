@@ -1,0 +1,7 @@
+pdf2image
+Pillow
+img2pdf
+opencv-python
+numpy
+keyboard
+pywin32
